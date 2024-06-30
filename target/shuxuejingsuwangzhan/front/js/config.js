@@ -61,7 +61,7 @@ var indexNav = [
 
 ]
 
-var adminurl =  "http://localhost:8787/shuxuejingsuwangzhan/admin/dist/index.html#/login";
+var adminurl =  "http://localhost:8080/shuxuejingsuwangzhan/admin/dist/index.html#/login";
 
 
 

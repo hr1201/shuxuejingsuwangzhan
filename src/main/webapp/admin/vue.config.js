@@ -36,7 +36,7 @@ module.exports = {
       // 请求代理服务器
       "/shuxuejingsuwangzhan": {
         //带上api前缀的
-        target: "http://localhost:8787/shuxuejingsuwangzhan/", //代理目标地址
+        target: "http://localhost:8080/shuxuejingsuwangzhan/", //代理目标地址
         changeOrigin: true,
         secure: false,
         pathRewrite: {

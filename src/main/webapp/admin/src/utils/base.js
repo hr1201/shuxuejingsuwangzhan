@@ -1,10 +1,10 @@
 const base = {
     get() {
         return {
-            url : "http://localhost:8787/shuxuejingsuwangzhan/",
+            url : "http://localhost:8080/shuxuejingsuwangzhan/",
             name: "shuxuejingsuwangzhan",
             // 退出到首页链接
-            indexUrl: 'http://localhost:8787/shuxuejingsuwangzhan/front/index.html'
+            indexUrl: 'http://localhost:8080/shuxuejingsuwangzhan/front/index.html'
         };
     },
     getProjectName(){
